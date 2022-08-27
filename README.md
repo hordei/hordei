@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hordei
+- 👋 Hi, I’m Matty
 - 👀 I’m interested in software development.
 - 🌱 I’m currently learning python, swift, java and kotlin.
 - 💞️ I’m looking to collaborate on ...

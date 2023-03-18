@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Matty
 - 👀 I’m interested in software development.
-- 🌱 I’m currently learning python, swift, java and kotlin.
+- 🌱 I’m currently learning python, swift, java and C#.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mattymecubic@gmail.com
 
